@@ -1,3 +1,6 @@
+# nuzlocke-tracker
+UI interface for tracking pokemon nuzlockes
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
